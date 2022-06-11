@@ -1,6 +1,5 @@
 [theme]
-primaryColor = "#919e8b" # green
-backgroundColor = "rgba(254,248,289,1)" # sepia yellow
-secondaryBackgroundColor = "#ebd2b9" # wheat
-textColor = "#6e7074" # grey
-font = "sans serif"
+primaryColor="#919e8b"
+backgroundColor="#f9f9c8"
+secondaryBackgroundColor="#3c920e"
+textColor="#3d3d3d"
